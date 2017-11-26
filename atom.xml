@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-26T13:20:40.039Z</updated>
+  <updated>2017-11-26T13:24:10.087Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2017/11/26/%E5%BF%83%E7%94%9F%E6%98%8E%E6%9C%88/"/>
     <id>http://yoursite.com/2017/11/26/心生明月/</id>
     <published>2017-11-26T10:26:50.000Z</published>
-    <updated>2017-11-26T13:20:40.039Z</updated>
+    <updated>2017-11-26T13:24:10.087Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,11 @@
       <category term="星辰大海" scheme="http://yoursite.com/categories/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/"/>
     
     
-      <category term="生活 学习 随想" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB-%E5%AD%A6%E4%B9%A0-%E9%9A%8F%E6%83%B3/"/>
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="随想" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
