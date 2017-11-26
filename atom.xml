@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>花开似香</title>
+  
+  <subtitle>记忆的碎片如生命般美好</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-11-26T12:24:28.326Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>on195594</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>心生明月</title>
+    <link href="http://yoursite.com/2017/11/26/%E5%BF%83%E7%94%9F%E6%98%8E%E6%9C%88/"/>
+    <id>http://yoursite.com/2017/11/26/心生明月/</id>
+    <published>2017-11-26T10:26:50.000Z</published>
+    <updated>2017-11-26T12:24:28.326Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="-星辰大海" scheme="http://yoursite.com/categories/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/"/>
+    
+    
+      <category term="-生活 -学习 -随想" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB-%E5%AD%A6%E4%B9%A0-%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
+  
+</feed>
