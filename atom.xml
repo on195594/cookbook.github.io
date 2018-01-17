@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-17T13:31:56.529Z</updated>
+  <updated>2018-01-17T13:35:59.214Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/01/17/%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
     <id>http://yoursite.com/2018/01/17/为自己的生活/</id>
     <published>2018-01-17T13:18:22.000Z</published>
-    <updated>2018-01-17T13:31:56.529Z</updated>
+    <updated>2018-01-17T13:35:59.214Z</updated>
     
     <content type="html"><![CDATA[<p>今天突然有点怜悯自己了，我这么努力却仍然没有爱情。有过很多理想，都是想要跟某个人一起去实<br>现的，因此也就耽误了自己的理想。而生活依旧是在自我挣扎，一点也看不到自我救赎的希望。这样<br>暗自神伤了几分钟，等的公交车来了，然后人很多没有挤上去，就等着坐下一班。虽然下班很晚，但<br>每次都是满满的一车人，从来如此。<br>生活对每个人是公平的吧，神是会看见在地上我们的一切。那么从今天起不再去等待一个人，而是去<br>寻找，去追寻理想中的自己，为自己而生活。<br>也不找寻借口和抱怨。</p>]]></content>
     
@@ -34,6 +34,10 @@
     
     </summary>
     
+      <category term="星辰大海" scheme="http://yoursite.com/categories/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/"/>
+    
+    
+      <category term="随想" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
@@ -42,7 +46,7 @@
     <link href="http://yoursite.com/2018/01/16/%E6%97%B6%E9%97%B4%E6%98%AF%E6%9C%80%E5%AE%9D%E8%B4%B5%E7%9A%84%E8%B4%A2%E5%AF%8C/"/>
     <id>http://yoursite.com/2018/01/16/时间是最宝贵的财富/</id>
     <published>2018-01-16T14:47:54.000Z</published>
-    <updated>2018-01-16T14:54:57.116Z</updated>
+    <updated>2018-01-17T13:35:58.336Z</updated>
     
     <content type="html"><![CDATA[<p>认识过很多人，很多人只见过一面，就不再联系，就如同那些匆匆路人。有些人会试着相处一段时间<br>，然而也并没有什么结果。越来越发现这其中并不是因为我不够努力，或者其他，可能只是因为我不<br>是足够的优秀，能给予别人一种保障。因此，我没有多少财富，越来越发现只有时间是我最宝贵的财<br>富，在人生的大多数时候，我都在浪费这种财富。以时间来换取金钱实在是一种愚蠢的行为。而为了<br>节省金钱而浪费时间更是不可取。</p><p>错过的就让她错过吧，也不能留恋更多，也无需表白，因为对于不在意的人来说，我也只是一个过客<br>。。。</p>]]></content>
     
@@ -55,6 +59,10 @@
     
     </summary>
     
+      <category term="星辰大海" scheme="http://yoursite.com/categories/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/"/>
+    
+    
+      <category term="随想" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
@@ -63,7 +71,7 @@
     <link href="http://yoursite.com/2017/11/27/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E8%80%90%E5%BF%83/"/>
     <id>http://yoursite.com/2017/11/27/解决问题的耐心/</id>
     <published>2017-11-27T14:01:33.000Z</published>
-    <updated>2018-01-16T14:56:48.215Z</updated>
+    <updated>2018-01-17T13:35:57.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天给小组培训了怎么给本地安装自动化测试环境，虽然脚本和配置都写好了，但是很多人还是出问<br>题了。只能一个一个单独给处理解决。上午的时候还是挺有耐心的，虽然问题出来了检查完每个安装<br>的步骤都没有问题，可是证书就是没有安装上，虽然提示安装成功了，但是检查证书里面仍然没有。<br>这时候开始怀疑是没有权限安装，于是上网搜索了一下，很快解决了问题</p><p>另外一个人是因为JDK没有正确安装，重装了JDK就解决了。最后还有一个人的所有东西都安装的了，<br>证书据她说也是安装了，可是就是没办法执行自动化。试了一下用firefox却可以执行，但是chrome<br>执行不了。这时候我突然想到，sahi原生支持的firefox不需要安全证书的验证。但是chrome却不<br>行。问题出在她少安装了一个证书。当我把那个证书给她安装好，问题也解决了。</p><p>我也发现刚开始还是很有耐心给别人解决问题的，后来渐渐就很烦躁。尤其是领导还在催我干别的事<br>情，那种焦虑更是火上浇油。我也没有时间去休息，或者出去透透气的机会。下次遇到这样的时刻，<br>一定要冷静些，出去转转喘口气。没有什么事情是十万火急的。关键是不能着急，然后才会有更多耐<br>心。</p>]]></content>
     
@@ -76,6 +84,8 @@
     
     </summary>
     
+      <category term="山水田园" scheme="http://yoursite.com/categories/%E5%B1%B1%E6%B0%B4%E7%94%B0%E5%9B%AD/"/>
+    
     
       <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
     
@@ -86,7 +96,7 @@
     <link href="http://yoursite.com/2017/11/26/%E5%BF%83%E7%94%9F%E6%98%8E%E6%9C%88/"/>
     <id>http://yoursite.com/2017/11/26/心生明月/</id>
     <published>2017-11-26T10:26:50.000Z</published>
-    <updated>2018-01-16T14:56:53.129Z</updated>
+    <updated>2018-01-17T13:36:00.255Z</updated>
     
     <content type="html"><![CDATA[<p>这是一个开始…</p><p>希望能够坚持下来，记录自己的生活和学习。让时间再次变得充实而有意思。也因为不断的总结和探<br>索，让生活变得有序。尽管世界已经变得支离破碎，人们已经不再相信神和爱情，但是仍然要积极地<br>探索这个世界。</p><p>相信语言应该是一种诗意的存在，就像冬天的暖阳，有温暖人心力量。</p>]]></content>
     
